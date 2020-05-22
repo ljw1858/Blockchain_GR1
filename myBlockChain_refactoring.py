@@ -17,7 +17,8 @@ import requests # for sending new block to other nodes
 
 # 20190605 /(YuRim Kim, HaeRi Kim, JongSun Park, BohKuk Suh , HyeongSeob Lee, JinWoo Song)
 from multiprocessing import Process, Lock # for using Lock method(acquire(), release())
-# 깃허브 테스트용
+# 깃허브 테스트용 0521 성훈
+# 깃허브 테스트용 0522 지원님 계정
 # for Put Lock objects into variables(lock)
 lock = Lock()
 
