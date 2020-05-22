@@ -19,6 +19,7 @@ import requests # for sending new block to other nodes
 from multiprocessing import Process, Lock # for using Lock method(acquire(), release())
 # 깃허브 테스트용 0521 성훈
 # 깃허브 테스트용 0522 지원님 계정
+# 깃허브 테스트용 0522 지원님 계정 1
 # for Put Lock objects into variables(lock)
 lock = Lock()
 
